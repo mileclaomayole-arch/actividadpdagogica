@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.3">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <corfondo>0D037C</corfondo>
+        <cornavega>008000</cornavega>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Ejercicios de lecto escrituta con la letra M</titulo>
+        <autor>Milena Mayorga</autor>
+        <logo>mazuera.jpg</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="SONIDO_RESPUESTA_CORRECTA.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="Descargar_Efecto_de_Sonido_Falla__Error_en_HD_(Sin_Copyright).mp3" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>3</tipo>
+              <imaxe>maleta.jpg</imaxe>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>1</forma>
+        </paxina>
+        <paxina id="2" >
+              <tipo>36</tipo>
+              <cabeceira>Realiza el  trazo con los mismos colores</cabeceira>
+              <forma>0</forma>
+              <modo>1</modo>
+              <etiqueta>12000046</etiqueta>
+              <etiqueta>10200406</etiqueta>
+              <etiqueta>10024006</etiqueta>
+              <etiqueta>10000006</etiqueta>
+              <etiqueta>10000006</etiqueta>
+              <etiqueta>10000006</etiqueta>
+              <etiqueta>10000006</etiqueta>
+        </paxina>
+        <paxina id="3" >
+              <tipo>17</tipo>
+              <parellas>maleta.jpg</parellas>
+              <parellas>mazuera.jpg</parellas>
+              <parellas>mesa.jpg</parellas>
+              <parellas>microfono.jpg</parellas>
+              <parellas>mono.gif</parellas>
+              <parellas>muela.gif</parellas>
+              <cfondo>0D037C</cfondo>
+              <ctapa>FF00FF</ctapa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>19</tipo>
+              <imaxe>moto.gif</imaxe>
+              <texto><![CDATA[Vehículo que te lleva de un lado a otro, pero debes llevar un casco y chaleco por seguridad. ]]></texto>
+              <resp texto="">Moto</resp>
+              <modo>0</modo>
+              <forma>0</forma>
+        </paxina>
+    </libro>
+</lim>
